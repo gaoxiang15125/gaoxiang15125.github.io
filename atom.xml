@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/gaoxiang15125/gaoxiang15125.github.io/"/>
-  <updated>2020-08-05T03:57:57.000Z</updated>
+  <updated>2020-08-05T12:51:38.000Z</updated>
   <id>https://github.com/gaoxiang15125/gaoxiang15125.github.io/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>书籍目录</title>
+    <link href="https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/05/%E4%B9%A6%E7%B1%8D%E7%9B%AE%E5%BD%95/"/>
+    <id>https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/05/%E4%B9%A6%E7%B1%8D%E7%9B%AE%E5%BD%95/</id>
+    <published>2020-08-05T12:51:38.000Z</published>
+    <updated>2020-08-05T12:51:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写在前面的话"><a class="markdownIt-Anchor" href="#写在前面的话"></a> 写在前面的话</h1><p>买书嘛，总怕物无所值。咱在此列出已购买的 kindle 图书，假如有童鞋想要借阅的话，可以联系我 哦</p><p>hexo 应该是有插件支持的，等俺闲下来一定搞一个 😂</p><h3 id="计算机相关书籍"><a class="markdownIt-Anchor" href="#计算机相关书籍"></a> 计算机相关书籍：</h3><h4 id="深入理解-java-虚拟机-周志明著"><a class="markdownIt-Anchor" href="#深入理解-java-虚拟机-周志明著"></a> 《深入理解 Java 虚拟机》 周志明著</h4><h4 id="h265hevc-视频编码朱秀昌刘峰-著"><a class="markdownIt-Anchor" href="#h265hevc-视频编码朱秀昌刘峰-著"></a> 《H.265/HEVC 视频编码》朱秀昌，刘峰 著</h4><h3 id="科学杂刊"><a class="markdownIt-Anchor" href="#科学杂刊"></a> 科学杂刊</h3><h4 id="生命是什么-艾尔温薛定谔-著"><a class="markdownIt-Anchor" href="#生命是什么-艾尔温薛定谔-著"></a> 《生命是什么》 艾尔温·薛定谔 著</h4><h3 id="历史书籍"><a class="markdownIt-Anchor" href="#历史书籍"></a> 历史书籍</h3><h4 id="毛爷爷传-罗斯特里尔-著"><a class="markdownIt-Anchor" href="#毛爷爷传-罗斯特里尔-著"></a> 《毛爷爷传》 罗斯·特里尔 著</h4><h4 id="日本史-坂本太郎-著"><a class="markdownIt-Anchor" href="#日本史-坂本太郎-著"></a> 《日本史》 坂本太郎 著</h4><h3 id="侦探悬疑"><a class="markdownIt-Anchor" href="#侦探悬疑"></a> 侦探悬疑</h3><h4 id="罗杰疑案-阿加莎克里斯蒂-著"><a class="markdownIt-Anchor" href="#罗杰疑案-阿加莎克里斯蒂-著"></a> 《罗杰疑案》 阿加莎·克里斯蒂 著</h4><h4 id="首无作祟之物三津田信三-著-font-color-red强烈推荐font"><a class="markdownIt-Anchor" href="#首无作祟之物三津田信三-著-font-color-red强烈推荐font"></a> 《首无·作祟之物》三津田信三 著 <font color = red>强烈推荐</font></h4><h4 id="山魔嗤笑之物三津田信三-著"><a class="markdownIt-Anchor" href="#山魔嗤笑之物三津田信三-著"></a> 《山魔·嗤笑之物》三津田信三 著</h4>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;写在前面的话&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面的话&quot;&gt;&lt;/a&gt; 写在前面的话&lt;/h1&gt;
+&lt;p&gt;买书嘛，总怕物无所值。咱在此列出已购买的 kindle 图书，假如有童鞋想要借阅的话，可以联系我 哦&lt;/p&gt;
+&lt;p&gt;he
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【深入理解Java虚拟机 1】</title>
+    <link href="https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20%E5%85%B6%E4%B8%80/"/>
+    <id>https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/05/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20%E5%85%B6%E4%B8%80/</id>
+    <published>2020-08-05T12:41:17.000Z</published>
+    <updated>2020-08-05T12:41:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="写在前面的话"><a class="markdownIt-Anchor" href="#写在前面的话"></a> 写在前面的话</h1><p>本系列主要记录阅读 《深入理解Java 虚拟机》后的感悟，同时对琐碎、重要的知识进行记录，以供之后复习用。</p><p>有兴趣的童靴可以自行购买，也可以联系我，借读后在进行购买😂</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;写在前面的话&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#写在前面的话&quot;&gt;&lt;/a&gt; 写在前面的话&lt;/h1&gt;
+&lt;p&gt;本系列主要记录阅读 《深入理解Java 虚拟机》后的感悟，同时对琐碎、重要的知识进行记录，以供之后复习用。&lt;/p&gt;
+&lt;p
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>【每日一题Day 5】 沦为扒手的程序员</title>
@@ -32,29 +80,6 @@
         &lt;h1 id=&quot;精神领袖附身的-程序员&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#精神领袖附身的-程序员&quot;&gt;&lt;/a&gt; 精神领袖附身的 程序员&lt;/h1&gt;
 &lt;p&gt;怎么偷，偷那些，这是个问题🙈🙉🙊🐵&lt;/p&gt;
 &lt;h3 id=&quot;198-打家劫舍&quot;&gt;&lt;
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Python自定义包导入问题</title>
-    <link href="https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/04/Python%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8C%85%E5%AF%BC%E5%85%A5%E9%97%AE%E9%A2%98/"/>
-    <id>https://github.com/gaoxiang15125/gaoxiang15125.github.io/2020/08/04/Python%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8C%85%E5%AF%BC%E5%85%A5%E9%97%AE%E9%A2%98/</id>
-    <published>2020-08-04T14:59:22.000Z</published>
-    <updated>2020-08-04T14:59:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>呵呵 目前这块暂时用不到，先等等 😂/(ㄒoㄒ)/~~</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;呵呵 目前这块暂时用不到，先等等 😂/(ㄒoㄒ)/~~&lt;/p&gt;
-
       
     
     </summary>
