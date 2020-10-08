@@ -3,7 +3,7 @@
   <title>小小的毛毛虫</title>
   <icon>https://www.gravatar.com/avatar/d1ef88200293f35641bebedc91aa7821</icon>
   <subtitle>小小的毛毛虫，也想要破茧成蝶</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="./atom.xml" rel="self"/>
   
   <link href="https://github.com/gaoxiang15125/gaoxiang15125.github.io/"/>
   <updated>2020-10-08T09:52:53.000Z</updated>
